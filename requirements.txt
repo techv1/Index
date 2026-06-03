@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+numpy
+faiss-cpu
+pydantic
+huggingface_hub
